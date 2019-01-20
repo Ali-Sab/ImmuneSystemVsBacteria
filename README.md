@@ -11,4 +11,4 @@ Features:
 
 This game was a two-week project, and cannot be considered a finished project, but only a demo of some of the skills I have learned in Java over the course of two years. There are a lot of missing features, and best practices were not used in this project, as there was not nearly enough time or the requirement of using such practices. As such, the gameplay is a bit choppy and feels quite outdated compared to modern tower defense games on the internet these days. This is a note to make aware to the reader that I, the author of this program, am aware of its shortcomings and for all intents and purposes, chose to make the program this way (and true to my predictions, it turned out 100% successful).
 
-![Alt text](Demo Pics/loadGame.png?raw=true "Title")
+![Demo](Demo Pics/loadGame.png?raw=true)
